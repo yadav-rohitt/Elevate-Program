@@ -16,4 +16,22 @@ This project is an automation suite built using Selenium WebDriver, covering mul
 - Maven / Gradle  
 
 ## 📂 Project Structure
-selenium-automation/ │── src/ │ ├── test/ │ │ ├──Java │ │  ├── Alert/ │ │ ├── dragdrop/ │ │ ├── fileupload/ │ │  ├──iframe │ │  ├──iframehandle │ │  ├──Rightclick  │ │ ├── Simpleform/ │ │ ├── login/ │── pom.xml 
+~~~
+Directory structure:
+└── yadav-rohitt-elevate-program/
+    ├── README.md
+    ├── pom.xml
+    └── src/
+        └── test/
+            └── java/
+                └── elevate/
+                    ├── Alert.java
+                    ├── DragDrop.java
+                    ├── FileUpload.java
+                    ├── IFrame.java
+                    ├── IFramehandle.java
+                    ├── Login.java
+                    ├── RightClick.java
+                    ├── Searchh.java
+                    └── SimpleForm.java
+~~~
